@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540592045536",
+    "project_id": "tmsupdated",
+    "storage_bucket": "tmsupdated.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540592045536:android:d33bbc3ef1585399c43f85",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjUUCHO2ZUKWGWQT-0SxHxUUOM-vRU7Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
